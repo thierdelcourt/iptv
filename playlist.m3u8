@@ -75,9 +75,6 @@ plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/rmcbfmplay/get_
 #EXTINF:-1 tvg-name="RMC Life" tvg-id="C1399.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/rmclife.png" tvg-chno="24" group-title="Catch-up TV & More" catchup="vod",RMC Life
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/rmcbfmplay/get_live_url/?item_id=RMC+Life
 
-#EXTINF:-1 tvg-name="TECH & CO" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/01net.png" group-title="Catch-up TV & More" catchup="vod",TECH & CO
-plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/rmcbfmplay/get_live_url/?item_id=TECH+%26+CO
-
 #EXTINF:-1 tvg-name="KTO" tvg-id="C110.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/kto.png" group-title="Catch-up TV & More" catchup="vod",KTO
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/kto/get_live_url/?item_id=kto
 
@@ -87,3 +84,5 @@ plugin://plugin.video.catchuptvandmore/resources/lib/channels/wo/tv5monde/get_li
 #EXTINF:-1 tvg-name="TV5Monde Info" tvg-logo="resource://resource.images.catchuptvandmore/channels/wo/tv5mondeinfo.png" group-title="Catch-up TV & More" catchup="vod",TV5Monde Info
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/wo/tv5monde/get_live_url/?item_id=tv5mondeinfo
 
+#EXTINF:-1 tvg-name="TECH & CO" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/01net.png" group-title="Catch-up TV & More" catchup="vod",TECH & CO
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/rmcbfmplay/get_live_url/?item_id=TECH+%26+CO
