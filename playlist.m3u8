@@ -18,7 +18,7 @@ plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/francetv/get_li
 #EXTINF:-1 tvg-name="M6" tvg-id="C118.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/m6.png" tvg-chno="6" group-title="Catch-up TV & More" catchup="vod",M6
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/6play/get_live_url/?item_id=m6
 
-#EXTINF:-1 tvg-name="LCP Assemblée Nationale" tvg-id="C234.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/lcp.png" tvg-chno="27" group-title="Catch-up TV & More" catchup="vod",LCP Assemblée Nationale
+#EXTINF:-1 tvg-name="LCP Assemblée Nationale" tvg-id="C234.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/lcp.png" tvg-chno="7" group-title="Catch-up TV & More" catchup="vod",LCP Assemblée Nationale
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/fr/lcp/get_live_url/?item_id=lcp
 
 #EXTINF:-1 tvg-name="W9" tvg-id="C119.api.telerama.fr" tvg-logo="resource://resource.images.catchuptvandmore/channels/fr/w9.png" tvg-chno="8" group-title="Catch-up TV & More" catchup="vod",W9
